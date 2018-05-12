@@ -1,0 +1,52 @@
+_repo: The-Origins-of-Contemporary-France-Complete-Table-of-Contents_23524
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Rom, Svend
+    gutenberg_agent_id: '31629'
+    url: http://www.gutenberg.org/2009/agents/31629
+  translator:
+    agent_name: Durand, John
+    alias: Durand, J. (John)
+    birthdate: 1822
+    deathdate: 1908
+    gutenberg_agent_id: '31637'
+    url: http://www.gutenberg.org/2009/agents/31637
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Taine, Hippolyte Adolphe
+    - Graindorge, Frédéric-Thomas
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frederic-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2008-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcc 'DC'
+title: The Origins of Contemporary France, Complete Table of Contents
+url: http://www.gutenberg.org/ebooks/23524
