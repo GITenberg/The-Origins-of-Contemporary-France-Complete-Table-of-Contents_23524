@@ -36,6 +36,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23524#The-Origins-of-Contemporary-France-Complete-Table-of-Contents
 gutenberg_issued: '2008-06-22'
 gutenberg_type: Text
 identifiers:
